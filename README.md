@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AKorzeniowska - Android Dev, Computer Science student
+- 👋 Hi, I’m @AKorzeniowska - Android Dev, Computer Science graduate
 - 🌱 Most of my repos here consist of university/hackathon projects - not my best work, but hey, it's all about continous learning. New personal project in the making rn.
 - 📫 How to reach me: contact@akorzeniowska.com
